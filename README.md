@@ -93,6 +93,8 @@ This framework enables the simulation of price paths and determination of payoff
 ## 🗂 Files
 
 * `MC_KI_call_final.ipynb`: Jupyter notebook with full simulation and analysis
+* `ANF_main_document.pdf`: Final document output
+* `ANF_initial_presentation.pptx`: Final document output
 * `README.md`: Project documentation
 
 ## 📦 Dependencies
